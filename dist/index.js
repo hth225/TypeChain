@@ -25,4 +25,5 @@ const createNewBlock = (data) => {
     return newBlock;
 };
 console.log(createNewBlock("Hello!"), createNewBlock("Bye!"));
+console.log(createNewBlock("c ya!"));
 //# sourceMappingURL=index.js.map
